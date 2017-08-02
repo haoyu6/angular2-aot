@@ -1,3 +1,9 @@
+
+aot 重新编译  npm run build:aot
+aot 运行 npm run lite
+jit 运行 ng serve
+
+
 # Aot
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
